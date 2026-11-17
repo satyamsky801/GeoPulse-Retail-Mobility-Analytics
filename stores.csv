@@ -1,0 +1,31 @@
+store_id,store_name,category,zone_id,zone_name,lat,lon,area_sqft,open_date
+S01,Koramangala Grocery #1,Grocery,Z01,Koramangala,12.937028,77.61826,2288,2023-02-01
+S02,Koramangala Fashion #2,Fashion,Z01,Koramangala,12.923494,77.616687,3319,2022-10-01
+S03,Koramangala Electronics #3,Electronics,Z01,Koramangala,12.933303,77.624399,3875,2019-07-01
+S04,Indiranagar Cafe #4,Cafe,Z02,Indiranagar,12.983067,77.641196,2046,2019-10-01
+S05,Indiranagar Pharmacy #5,Pharmacy,Z02,Indiranagar,12.981205,77.635644,959,2020-11-01
+S06,Indiranagar Grocery #6,Grocery,Z02,Indiranagar,12.983671,77.6405,848,2016-10-01
+S07,Whitefield Fashion #7,Fashion,Z03,Whitefield,12.965714,77.757335,2338,2023-09-01
+S08,Whitefield Electronics #8,Electronics,Z03,Whitefield,12.967687,77.753194,3635,2019-01-01
+S09,Whitefield Cafe #9,Cafe,Z03,Whitefield,12.972276,77.752585,4197,2022-05-01
+S10,Electronic City Pharmacy #10,Pharmacy,Z04,Electronic City,12.842527,77.655417,4373,2015-06-01
+S11,Electronic City Grocery #11,Grocery,Z04,Electronic City,12.852374,77.659616,3277,2019-04-01
+S12,Electronic City Fashion #12,Fashion,Z04,Electronic City,12.849504,77.66476,1484,2016-10-01
+S13,Jayanagar Electronics #13,Electronics,Z05,Jayanagar,12.917973,77.597059,3594,2023-06-01
+S14,Jayanagar Cafe #14,Cafe,Z05,Jayanagar,12.9257,77.595112,3738,2017-09-01
+S15,Jayanagar Pharmacy #15,Pharmacy,Z05,Jayanagar,12.926342,77.597873,3739,2015-10-01
+S16,Malleshwaram Grocery #16,Grocery,Z06,Malleshwaram,13.007288,77.562257,3669,2017-10-01
+S17,Malleshwaram Fashion #17,Fashion,Z06,Malleshwaram,13.000678,77.567167,745,2016-03-01
+S18,Malleshwaram Electronics #18,Electronics,Z06,Malleshwaram,12.998305,77.57681,1046,2023-07-01
+S19,HSR Layout Cafe #19,Cafe,Z07,HSR Layout,12.909591,77.639877,2804,2020-02-01
+S20,HSR Layout Pharmacy #20,Pharmacy,Z07,HSR Layout,12.91636,77.636808,2780,2018-06-01
+S21,HSR Layout Grocery #21,Grocery,Z07,HSR Layout,12.916748,77.637752,4471,2023-01-01
+S22,Yelahanka Fashion #22,Fashion,Z08,Yelahanka,13.095183,77.599283,1512,2024-04-01
+S23,Yelahanka Electronics #23,Electronics,Z08,Yelahanka,13.104843,77.593736,2569,2022-12-01
+S24,Yelahanka Cafe #24,Cafe,Z08,Yelahanka,13.098844,77.599041,3190,2018-03-01
+S25,Marathahalli Pharmacy #25,Pharmacy,Z09,Marathahalli,12.954722,77.69881,3609,2022-09-01
+S26,Marathahalli Grocery #26,Grocery,Z09,Marathahalli,12.954084,77.701175,2401,2024-02-01
+S27,Marathahalli Fashion #27,Fashion,Z09,Marathahalli,12.959579,77.705092,1248,2018-03-01
+S28,Banashankari Electronics #28,Electronics,Z10,Banashankari,12.925022,77.536676,1775,2024-02-01
+S29,Banashankari Cafe #29,Cafe,Z10,Banashankari,12.917564,77.540817,2028,2024-06-01
+S30,Banashankari Pharmacy #30,Pharmacy,Z10,Banashankari,12.923231,77.554595,3328,2017-10-01

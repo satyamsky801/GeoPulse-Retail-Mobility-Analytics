@@ -1,0 +1,11 @@
+zone_id,zone_name,lat,lon,population,income_level
+Z01,Koramangala,12.9352,77.6245,95000,High
+Z02,Indiranagar,12.9784,77.6408,80000,High
+Z03,Whitefield,12.9698,77.75,150000,High
+Z04,Electronic City,12.8456,77.6603,120000,Medium
+Z05,Jayanagar,12.925,77.5938,110000,Medium
+Z06,Malleshwaram,13.0035,77.571,90000,Medium
+Z07,HSR Layout,12.9116,77.6389,100000,High
+Z08,Yelahanka,13.1007,77.5963,130000,Medium
+Z09,Marathahalli,12.9569,77.7011,140000,Medium
+Z10,Banashankari,12.9255,77.5468,125000,Low

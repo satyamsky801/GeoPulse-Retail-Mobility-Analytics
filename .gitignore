@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.DS_Store
+# large generated files (recreate by running the scripts)
+footfall_features.csv
+visits_features.csv

@@ -1,0 +1,8 @@
+step,issue,rows_before,rows_after,action
+1,Invalid timestamps,40400,40400,Dropped rows with unparseable timestamp
+2,Duplicate rows,40400,40000,drop_duplicates()
+3,Invalid/out-of-area coordinates,40000,39800,Dropped rows outside Bengaluru bounding box
+4,Negative dwell_min (120),39800,39800,Set to NaN (imputed in next step)
+5,Missing dwell_min (913),39800,39800,Filled with median dwell per store category
+6,Extreme dwell times,39800,39800,Capped at 99th percentile (69.5 min); flagged in dwell_outlier
+7,Unknown store_id,39800,39800,Dropped rows with store_id not in stores.csv
